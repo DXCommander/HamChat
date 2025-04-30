@@ -14,13 +14,12 @@ Runs with no server, no config — just fire up and chat!
 - Flashes on new message
 - Italics for your own outgoing messages
 - Right-click: Change name, Show users, Enable test mode
-- “Test Mode” lets you run multiple clients on the same PC
+- “Test Mode” not required because it runs (twice) on same machine anyway!
 
 ---
 
 ## 🚀 Getting Started
 
-1. Install Python 3.10+ (if not already)
-2. Run from source:
-   ```bash
-   python hamchat.py
+1. Go to https://github.com/DXCommander/HamChat/releases/tag/V1
+2. Download and run hamcaht.exe - ignore Security warnings and "run anyway"
+3. Have fun!
