@@ -2,6 +2,7 @@
 
 **HamChat** is a no-setup, LAN-based sticky-note-style chat application for quick internal messaging.  
 Runs with no server, no config — just fire up and chat!
+Designed and tested by Callum M0MCX and Python code by ChatGPT
 
 ---
 
